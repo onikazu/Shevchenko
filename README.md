@@ -1,4 +1,4 @@
-# Shevchenko
+# Shevchenko(未完)
 alpha zeroで作成するrobocup2Dサッカーエージェント
 
 
